@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anesu-muz&label=Profile%20views&color=0e75b6&style=flat" alt="anesu-muz" /> </p>
 
-- 🔭 I’m currently working on **Flutter Fitness App**
+- 🔭 I’m currently working on **Ecommerce app**
 
 - 🌱 I’m currently learning **React and Next js**
 
